@@ -2,7 +2,7 @@
   
 ## 1- VScode themes and extensions
 
-## AI vs Data Science vs ML vs DL
+## 2- AI vs Data Science vs ML vs DL
 - Benefits of AI
 - Data Science vs AI
 - History of AI
@@ -10,7 +10,7 @@
 - Use of Python to learn AI
 - Data Science vs Data Analytics
 
-## Python:
+## 3- Python:
 - Conda Environment
 - Jupyter Notebook
 - Variables
@@ -30,9 +30,9 @@
   - streamlit
   - keras
 
-## Markdown Language
+## 4- Markdown Language
 
-## EDA(Exploratory Data Analysis)
+## 5- EDA(Exploratory Data Analysis)
 - Data Visualization
 - Data Processing/Data Wrangling
 - EDA on Google play store data
@@ -40,23 +40,23 @@
 - Types of Plots
 - Animated plots
 
-## Mathematics
+## 6- Mathematics
 - Math for Data Science
 - Algebra
 	- Pre-Algebra
 	- Elementary Algebra
 	- Linear Algebra
 
-## Statistics
+## 7- Statistics
 - Statistics for Data Science
 
-## Machine Learning
+## 8- Machine Learning
 - Types of Machine Learning
 - ML Model learning
 - Libraries for machine learning
 - Machine Learning Projects
 
-## Un-Supervised Machine Learning
+## 9- Un-Supervised Machine Learning
 - Clustering
 - DBSCAN
 - OPTICS
@@ -65,7 +65,7 @@
 - PCA
 - t-SNE
   
-## Deep Learning
+## 10- Deep Learning
 - ML vs DL
 - Neural Network
 - Multi layer perceptron
@@ -78,19 +78,19 @@
 - NLP (Natural language Processing)
 - LSTM for NLP
   
-## Time Series Analysis
+## 11- Time Series Analysis
 - Types of time series data
 - Time series analysis and plotting
 - Time series weather forcasting
 - Web scrapping
 - ARIMA, SARIMA,SARIMAX models for time series analysis
 - 
-## Improving Pre-trained Models
+## 12- Improving Pre-trained Models
 - Transfer Learning and pre-trained models
 - Transfer learning using TensorFlow
 - TensorFlow for image classification
   
-## Generative AI
+## 13- Generative AI
 - Important key terms
 - How does generative AI works
 - TensorBoard
@@ -98,19 +98,19 @@
 - Stable Diffusion Models
 - SORA: An openAI’s model for AI video generation
 - 
-## LLMS websites for prompt engineering
+## 14- LLMS websites for prompt engineering
 - Types of Prompt Engineering
 - Prompt designing strategies
 
-## Huggingface
+## 15- Huggingface
 - Pre trained models for hugginface
 
-## LangChain and APIs
+## 16- LangChain and APIs
 - LangChain workflow for LLMs
 - Applications of LangChain for LLMs
 - LangChain + OpenAI API + HuggingFace API
   
-## Streamlit for webapp development and deployment
+## 17- Streamlit for webapp development and deployment
 - Streamlit Data Science application
 - Streamlit webapp without coding but prompting
 - Streamlit app deployment on free servers
@@ -120,7 +120,7 @@
 - Speech to text Streamlit Application development
 - Text to speech Streamlit application
 
-## Flask for web app development
+## 18- Flask for web app development
 - Flask app for basic EDA and plotting
 - Image Generation app development in flask python
 - End to End machine Learning project in flask | house price prediction
@@ -128,12 +128,12 @@
 - WordCloud app development
 - Web application deployment on Amazon AWS EC2 Instance
   
-## FastAPI
+## 19- FastAPI
 - FastAPI basics and running server
 - Titanic app backend development with FastAPI
 - Static and interactive plots using plotly
   
-## Tableau Complete Course
+## 20- Tableau Complete Course
 - How to load and handle Datasetin Tableau Public
 - Data Types check 
 - Data Filtering and sorting
@@ -148,7 +148,7 @@
 - Group charts
 - Tableau Interactive Dashboard Development and Deployment
  
-## Power BI
+## 21- Power BI
 - Power BI vs Tableau vs Python
 - Benefits of using Power BI
 - Power BI interface and Features
@@ -161,7 +161,7 @@
 - Tree Map
 - Line Charts
   
-## SQL
+## 22- SQL
 - MySQL Database for Beginners
 - Create/modify tables
 - DISTINCT function 
