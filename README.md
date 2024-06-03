@@ -1,6 +1,6 @@
 # Data-Science-Learning-Content
   
-## VScode themes and extensions
+## 1- VScode themes and extensions
 
 ## AI vs Data Science vs ML vs DL
 - Benefits of AI
