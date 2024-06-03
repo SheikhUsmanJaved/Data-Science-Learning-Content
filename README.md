@@ -21,7 +21,7 @@
 - Types of errors
 - Libraries
 	- Pandas
-  - Numpy
+	- Numpy
   - seaborn
   - matplotlib
   - plotly
@@ -86,7 +86,7 @@
 - ARIMA, SARIMA,SARIMAX models for time series analysis
 - 
 ## Improving Pre-trained Models
--Transfer Learning and pre-trained models
+- Transfer Learning and pre-trained models
 - Transfer learning using TensorFlow
 - TensorFlow for image classification
   
@@ -99,11 +99,11 @@
 - SORA: An openAI’s model for AI video generation
 - 
 ## LLMS websites for prompt engineering
--Types of Prompt Engineering
+- Types of Prompt Engineering
 - Prompt designing strategies
 
 ## Huggingface
--Pre trained models for hugginface
+- Pre trained models for hugginface
 
 ## LangChain and APIs
 - LangChain workflow for LLMs
@@ -121,7 +121,7 @@
 - Text to speech Streamlit application
 
 ## Flask for web app development
--Flask app for basic EDA and plotting
+- Flask app for basic EDA and plotting
 - Image Generation app development in flask python
 - End to End machine Learning project in flask | house price prediction
 - Diabetes prediction app development
